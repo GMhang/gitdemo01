@@ -10,6 +10,7 @@ public class HelloTest{
     public void test(){
         new Hello().sayHello();
         new Hello().sayHello();
+        new Hello().sayHello();
     }
 
 }
