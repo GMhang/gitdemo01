@@ -12,6 +12,7 @@ public class HelloTest{
         new Hello().sayHello();
         new Hello().sayHello();
         System.out.println("master commit");
+        System.out.println("hot-fix commit");
     }
 
 }
